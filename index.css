@@ -21,7 +21,7 @@ header{
 }
 .nav .links ul{
     display: flex;
-    gap:2vw;
+    gap:2px;
     padding-top: 1vh;
    list-style-type: none;
    cursor: pointer;
@@ -53,7 +53,11 @@ main{
     .nav .links ul{
       
        font-size: 3vw;
+        
 }
+    .nav .links ul li{
+        padding:2px;
+    }
 main .container img{
     width:30vw;
     padding-top: 15vh;
