@@ -56,7 +56,7 @@ main{
         
 }
     .nav .links ul li{
-        padding:2px;
+        margin-right:4px;
     }
 main .container img{
     width:30vw;
